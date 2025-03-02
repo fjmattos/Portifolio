@@ -1,8 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #00C5FF;
     color: #FF7F00;
 }
 
-strong {
+.titulo-destaque {
     color: #AA7139;
 }
